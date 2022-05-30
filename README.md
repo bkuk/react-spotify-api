@@ -16,6 +16,9 @@
 ## Testing/Installation
 :running: To Test Yourself:
 - MUST CREATE A SPOTIFY ACCOUNT WITH PLAYLISTS TO USE
+- [Click here](https://spotify-react-proj.herokuapp.com/) for the live version.
+
+Test Locally:
 - Install the dependencies: 
 ```
 npm install
